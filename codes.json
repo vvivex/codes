@@ -1,7 +1,9 @@
 {
   "codes": {
-    "RELEASE": 5000,
-    "JacksonBoyBestPlayer": 5000,
-    "HelloWorld": 5000
+    "RELEASE": 500,
+    "BESTJACK": 500,
+    "BALANCING": 500,
+    "QOLUPDATE1": 500,
+    "SEC19": 5000,
   }
 }
