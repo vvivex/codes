@@ -5,5 +5,7 @@
     "BALANCING": 500,
     "QOLUPDATE1": 500,
     "SEC19": 5000,
+    "COMPENSATION1": 50000,
+    "OILRIGJUMP": 1000,
   }
 }
